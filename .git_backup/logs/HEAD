@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 942a554c7a24256f7afa455a78b1a134f9a4f244 delta student <you@example.com> 1754130914 +0530	commit (initial): Project files
+942a554c7a24256f7afa455a78b1a134f9a4f244 30bc4cff0bca16e5acc05b728a97975238fff123 Anjali Yadav <anjaliyadav4031@gmail.com> 1783163984 +0530	commit (amend): Project files
+30bc4cff0bca16e5acc05b728a97975238fff123 a89f650da804d4d4117ecd75bb8817a33e0b76e8 Anjali Yadav <anjaliyadav4031@gmail.com> 1783164142 +0530	commit (amend): Project files
+a89f650da804d4d4117ecd75bb8817a33e0b76e8 ec8ca189b1c056fcbeef8df179d8abc845316a9d Anjali Yadav <anjaliyadav4031@gmail.com> 1783164893 +0530	commit (amend): Project files
+ec8ca189b1c056fcbeef8df179d8abc845316a9d 942a554c7a24256f7afa455a78b1a134f9a4f244 Anjali Yadav <anjaliyadav4031@gmail.com> 1783164940 +0530	rebase (abort): returning to refs/heads/main
+942a554c7a24256f7afa455a78b1a134f9a4f244 942a554c7a24256f7afa455a78b1a134f9a4f244 Anjali Yadav <anjaliyadav4031@gmail.com> 1783164940 +0530	rebase (abort): returning to refs/heads/main
